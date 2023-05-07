@@ -263,11 +263,11 @@ span {
   color: var(--main-color);
 }
 .service-box h3 {
-  font-size: 2.6rem;
+  font-size: 2.5rem;
 }
 .service-box p {
-  padding-bottom: 2rem;
-  padding-top: 2rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
   font-size: 1.6rem;
 }
 .services-box p {
@@ -304,6 +304,7 @@ End Of Services
 }
 
 .portifolio-box img {
+  height: 230px;
   width: 100%;
   transition: ease .5s ease;
 

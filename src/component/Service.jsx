@@ -18,7 +18,7 @@ export default class Service extends Component {
                 strong problem-solving skills to deliver high-quality solutions
                 that exceed client expectations..
               </p>
-              <a href="https://" class="btn">
+              <a href="#service" class="btn">
                 Read More
               </a>
             </div>
@@ -31,7 +31,7 @@ export default class Service extends Component {
                 frameworks like React, Laravel, and Vue.js, delivering
                 high-quality solutions that meet clients' needs.
               </p>
-              <a href="https://" class="btn">
+              <a href="#service" class="btn">
                 Read More
               </a>
             </div>
@@ -44,7 +44,7 @@ export default class Service extends Component {
                 using AWS, Docker, MySQL, and MongoDB to meet clients' unique
                 needs.
               </p>
-              <a href="https://#" class="btn">
+              <a href="#service" class="btn">
                 Read More
               </a>
             </div>
